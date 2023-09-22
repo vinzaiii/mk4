@@ -1,0 +1,22 @@
+h2{
+    color: blue;
+    background-color: green;
+    font-size: 125px;
+
+}
+img{
+    width: 700px;
+    height: 500px;
+    object-fit: contain;
+    border: 10px solid yellow;
+    border-radius: 25px;
+}
+.div1{
+    display: flex;
+    color: orange;
+}
+video{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
